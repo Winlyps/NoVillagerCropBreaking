@@ -1,0 +1,5 @@
+name: NoVillagerCropBreaking
+version: '1.0.0'
+main: winlyps.noVillagerCropBreaking.NoVillagerCropBreaking
+api-version: '1.20'
+authors: [ Winlyps ]
